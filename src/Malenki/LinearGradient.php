@@ -69,6 +69,9 @@ class LinearGradient
 
 
 
+    /**
+     * Have a look at https://developer.mozilla.org/fr/docs/CSS/linear-gradient and http://www.alsacreations.com/tuto/lire/813-css3-background-radial-gradient.html
+     */
     public function render()
     {
         /*
